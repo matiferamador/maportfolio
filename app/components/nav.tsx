@@ -4,12 +4,13 @@ const navItems = {
   '/': {
     name: 'Home',
   },
-  '/blog': {
-    name: 'Blog',
-  },
   '/proyectos': {
     name: 'Proyectos',
   },
+  '/blog': {
+    name: 'Blog',
+  },
+  
 }
 
 export function Navbar() {
